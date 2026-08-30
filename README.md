@@ -1,4 +1,4 @@
-# Fake News Detection — Neural Network from First Principles (NLP)
+# Fake News Detection
 
 A binary fake/real news classifier built around a trainable word-embedding
 layer, mean-pooling, and a feedforward classifier — implemented entirely from
