@@ -63,4 +63,4 @@ No internet access or GPU required.
 
 ## Author
 
-Ravi Kumar — [homepage](https://sites.google.com/view/ravis-math-page-truthandbeauty)
+Ravi Kumar
